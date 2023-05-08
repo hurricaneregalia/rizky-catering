@@ -43,8 +43,8 @@ export default function Home() {
         <div className={styles.thirteen}>
           <Image src="/thirteen.svg" alt="13" width={40} height={31} priority />
         </div>
-        <h1>the lorem ipsum coba lagi</h1>
       </div>
+        <h1>the lorem ipsum coba lagi</h1>
 
       <div className={styles.grid}>
         <a
